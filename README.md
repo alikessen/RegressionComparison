@@ -6,8 +6,6 @@ This project compares the performance of Decision Tree and Linear Regression mod
 - [Description](#description)
 - [Features](#features)
 - [Usage](#usage)
-- [Requirements](#requirements)
-- [License](#license)
 
 ## Description
 The goal of this project is to demonstrate a complete machine learning workflow for regression analysis. Two models—Decision Tree Regressor and Linear Regression—are trained and evaluated on the same dataset. The script includes correlation analysis, visualisation, prediction performance comparison (MSE and R²), and 10-fold cross-validation. Feature importance from the Decision Tree is also analysed and visualised.
